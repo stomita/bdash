@@ -21,6 +21,7 @@
     "font-awesome": "^4.5.0",
     "immup": "^2.2.3",
     "js-yaml": "^3.6.1",
+    "jsforce": "^1.7.1",
     "lodash": "^4.15.0",
     "markdown-table": "^1.0.0",
     "moment": "^2.15.2",
